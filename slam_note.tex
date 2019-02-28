@@ -1,0 +1,42 @@
+\documentclass[twocolumn]{article}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\newtheorem{thm}{Theorem}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{authblk}
+\usepackage{geometry}
+\usepackage{amssymb}
+\usepackage{newtxtext,newtxmath}
+\usepackage[colorinlistoftodos]{todonotes}
+\geometry{a4paper,left=2.25cm,right=2.25cm,top=2cm,bottom=2.5cm}
+
+\title{Accurate Tracking with Fusion of Video and Radio Signals}
+\author{Yuning Liu}
+\author{Weiwei Li}
+\author{Chi Chen}
+\author{Yuan Gao}
+\affil{University of New South Wales}
+
+\date{\today}
+\begin{document}
+\maketitle
+\begin{abstract}
+    SLAM (Simultaneous Localization And Mapping) is a rising-discussion topic today. There are several excellent open-source software, for instances, PTAM, LSD-SLAM and ORB-SLAM, etc. After installing several softwares and digging out the limitation of different systems, We choose ORB-SLAM as our research topic. We also did some experienments trying to figured out the backbone of ORB-SLAM. Our objective is to optimzed the algorithm to enhance the system performance and mapping accuracy. 
+\end{abstract}
+
+\section{Introduction}
+\input{Intro.tex}
+\section{Related Mathmatical Work}
+\input{Math.tex}
+\section{Objective}
+
+Our objective is to fuse localization data given by Wi-Fi anchor to enhance our system performance and reduce trajectory drift using monocular cameara. The mathmatical representation is given by Equation \label{wifi math}
+\begin{equation}
+    \{R, t\} = \operatorname*{argmin}_{R, t} \sum_{i\in \chi} \rho(\left\|x^i_{(\cdot)}-\pi_{m}(RX^i+t)\right\|^2_\Sigma+\alpha\left\|\vec{x}-\vec{x}_{wifi}\right\|^2) \label{wifi math}
+\end{equation}
+
+\section{Others}
+\end{document}

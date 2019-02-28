@@ -1,0 +1,39 @@
+The core of non-filtered based SLAM is basically to minimize the error between the data from predictions, the geometric relation between feature and camera position, and measurements, that is actual graphical input, using Least Square method (Equation \ref{LS}).
+\begin{equation}
+    x = \operatorname*{argmin}_x \sum_{i \in \chi}\left\|Ax-b\right\|^2 \label{LS}
+\end{equation}
+where b is the measurements and A is the predictions using the variable we want to obtain. We wants to find out a optimal $x$ which can minimize the distance between our measurements and predictions. The solutions can be solved by Newton method, gradient descent, etc.\\
+In ORB-SLAM case, the LS problem, also known as Bundle Adjustment, is specified as minimizing the reprojection error which is shown as below:
+\begin{equation}
+    \{R, t\} = \operatorname*{argmin}_{R, t} \sum_{i\in \chi} \rho(\left\|x^i_{(\cdot)}-\pi_{m}(RX^i+t)\right\|^2_\Sigma) \label{motion-only}
+\end{equation}
+where $\rho$ is the robust Huber cost function and $\Sigma$ is the covariance matrix associated to the scale of the keypoint. The projection function $\pi_m$ for monocular camer is definded as follow:
+\begin{equation}
+    \pi_m=\left(
+    \begin{bmatrix}
+        X\\
+        Y\\
+        Z
+    \end{bmatrix} 
+    \right)=\begin{bmatrix}
+        f_x\frac{X}{Z}+c_x\\
+        f_y\frac{Y}{Z}+c_y
+    \end{bmatrix}
+\end{equation} 
+Bundle adjustment optimizes camera pose $R$ and translation $t$ that minimize the reprojection error.
+In every keyframe, camera pose $R$ and translation $t$ are store in a 4-by-4 matrix. The fourth rows is 
+$
+    \begin{bmatrix}
+        0 & 0 & 0 &1
+    \end{bmatrix}
+$
+which is for homogeneous coordinates. The complete 4-by-4 matrix is shown below:
+$$
+    \begin{bmatrix}
+        R_{3\times3} & t_{3\times1} \\
+        0_{1\times3} & 1
+    \end{bmatrix}
+$$
+The detailed mathmatical explanation will be discussed in the following section.
+
+
