@@ -1,5 +1,6 @@
 # Fdb version 3
 <<<<<<< HEAD
+<<<<<<< HEAD
 ["pdflatex"] 1551410256 "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex" "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.pdf" "slam_note" 1551410257
   "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux" 1551410257 1521 6fbc0163eabbf146e3a71a85da829c59 ""
   "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex" 1551410255 1793 0aad6d5af03826b75cff94149df51ff4 ""
@@ -227,6 +228,14 @@
   "Math.tex" 1551404597 6298 f1f72e31b7ebe0876c3599215acb99f5 ""
   "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.aux" 1551404601 1426 2cc9a214ec72461d292a0603dec04ad3 ""
   "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.tex" 1551403503 1777 ce70dff6b838bae2486b88081d669da8 ""
+=======
+["pdflatex"] 1551410321 "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.tex" "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.pdf" "slam_note" 1551410324
+  "Epipolar.png" 1551400783 382741 dfa40fac56e38a57f1ed99c1bfd47287 ""
+  "Intro.tex" 1551400783 1972 74fb68d6571fcd830d3224c2033fff55 ""
+  "Math.tex" 1551410319 6585 de872a091081068e1b8d0691f12e60ce ""
+  "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.aux" 1551410323 1422 de8cedbed00ca82ee8e92a44a18c809e ""
+  "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.tex" 1551410208 1797 9d1c08c265e304ac870e74f574f0fb43 ""
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1551330274 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1551332341 2880 847ca622ad468c3dafba6a3f9d89a636 ""
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1551332341 2083 60e36f8eac802fcaf19eabe2633b406e ""
@@ -400,6 +409,10 @@
   "c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1551330955 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1551330955 1224 978390e9c2234eab29404bc21b268d1e ""
   "c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def" 1551330956 17334 520b9b85ad8a2a48eda3f643e27a5179 ""
+<<<<<<< HEAD
+=======
+  "c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty" 1551330953 7028 112f909feb676788e7ea1c5b0b76320f ""
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
   "c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty" 1551330953 15272 5a97061616e0c8b2aa79c6615ff769f4 ""
   "c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty" 1551330953 9063 d0a305975932762117cd1f06a582f896 ""
   "c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty" 1551330953 2591 6404d0c7d28505fb38ce0d86c2e28ae7 ""
@@ -440,6 +453,7 @@
   "c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1551333599 3265573 655ac40406f2c37c0d9078d533adef20 ""
   "c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1551333693 4223237 c89786bbb28196203a82c638ff815f6b ""
   "c:/texlive/2018/texmf.cnf" 1551333578 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+<<<<<<< HEAD
   "slam_note.aux" 1551404601 1426 2cc9a214ec72461d292a0603dec04ad3 ""
   "slam_note.tex" 1551403503 1777 ce70dff6b838bae2486b88081d669da8 ""
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
@@ -461,3 +475,13 @@
   "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.pdf"
   "slam_note.pdf"
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+  "slam_note.aux" 1551410323 1422 de8cedbed00ca82ee8e92a44a18c809e ""
+  "slam_note.tex" 1551410208 1797 9d1c08c265e304ac870e74f574f0fb43 ""
+  (generated)
+  "slam_note.log"
+  "slam_note.aux"
+  "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.pdf"
+  "c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.log"
+  "slam_note.pdf"
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740

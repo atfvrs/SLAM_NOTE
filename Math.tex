@@ -12,9 +12,17 @@ It is mentioned that the reprojection error can be optimized by camera pose and 
 \begin{align}
     p^T_2K^{-T}t^{\wedge}RK^{-1}p_1 = 0 
 \end{align}
+<<<<<<< HEAD
 where K, R, t represent camera internal metrix, camera pose and translation.
 \subsection{Euclidean transformation}
 The robot can be seen as rigid body when it moving, which means the length and angle keep stable at any frame of reference. Such a transformation called Euclidean transformation. Euclidean transformation include two parts, rotation and translation. Firstly consider rotation. Set the vector $\pmb{\vec{a}}$, the coordinate points are 
+=======
+where $K$, $R$, $t$ represent camera internal metrix, camera pose and translation.
+\subsection{Rigid transformation}
+In mathematics, the rigid transformation, also called Euclidean transformation, is a geometric transformation in  Euclidean space, and it do not change the Euclidean distance between two points. The camera can be seen as rigid body when it moving, which means the length and angle always keep stable at any frame of reference, just like a Rigid transformation.\\
+Considering the vector $a$ at world coordinate system, after once rotation $R$ and translation $t$, 
+Euclidean transformation include two parts, rotation and translation. Firstly consider rotation. Set the vector $\pmb{\vec{a}}$, the coordinate points are
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 $
     \begin{bmatrix} 
         a_1 & a_2 & a_3

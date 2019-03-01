@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.13)  1 MAR 2019 14:17
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.2.28)  1 MAR 2019 12:43
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.2.28)  1 MAR 2019 14:18
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -153,6 +157,15 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@Maxaffil=\count105
 \c@authors=\count106
 \c@affil=\count107
+<<<<<<< HEAD
+=======
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 ) (c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
  (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
@@ -454,6 +467,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \symlargesymbolsTXA=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
 <<<<<<< HEAD
+<<<<<<< HEAD
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 332.
 LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 503.
 LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 504.
@@ -493,6 +507,8 @@ Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
 Package: todonotes 2012/07/25
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
 =======
+=======
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 355.
 LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 548.
 LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 549.
@@ -532,7 +548,10 @@ LaTeX Info: Redefining \openbox on input line 2354.
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
 Package: todonotes 2018/11/22
  (c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+<<<<<<< HEAD
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ) (c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -749,12 +768,18 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \c@@todonotes@numberoftodonotes=\count145
 )
 <<<<<<< HEAD
+<<<<<<< HEAD
 LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 25.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+=======
+LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 25.
+ (c:/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 25.
+<<<<<<< HEAD
  (/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux
 =======
 LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 24.
@@ -765,12 +790,16 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 24.
  (c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.aux
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+ (c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.aux
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 
 LaTeX Warning: Label `wifi math' multiply defined.
 
 )
 \openout1 = `slam_note.aux'.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 25.
 LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 25.
@@ -852,6 +881,47 @@ File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 LaTeX Font Info:    ... okay on input line 24.
  (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 25.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 25.
+ (c:/texlive/2018/texmf-dist/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 25.
+ (c:/texlive/2018/texmf-dist/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
+ (c:/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 25.
+ (c:/texlive/2018/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 25.
+ (c:/texlive/2018/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 25.
+ (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count146
 \scratchdimen=\dimen179
@@ -939,7 +1009,11 @@ Package caption Info: End \AtBeginDocument code.
 \c@mv@boldtabular=\count153
 ABD: EveryShipout initializing macros
 
+<<<<<<< HEAD
 Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 24.
+=======
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 25.
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 26.
@@ -951,12 +1025,17 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 <<<<<<< HEAD
+<<<<<<< HEAD
 (Font)              scaled to size 14.4pt on input line 27.
  (/Users/lyn/Desktop/Github/SLAM_NOTE/Intro.tex
 =======
 (Font)              scaled to size 14.4pt on input line 26.
 (c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Intro.tex
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+(Font)              scaled to size 14.4pt on input line 27.
+(c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Intro.tex
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 2.
  (c:/texlive/2018/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
@@ -1000,11 +1079,16 @@ Package pdftex.def Info: Epipolar.png  used on input line 7.
 
 
 ]
+<<<<<<< HEAD
 Underfull \hbox (badness 2932) in paragraph at lines 60--69
+=======
+Underfull \hbox (badness 2932) in paragraph at lines 62--71
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 \T1/ntxtlf/m/n/10 Then do left mul-ti-pli-ca-tion at the same time by
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+<<<<<<< HEAD
 <<<<<<< HEAD
 (Font)              scaled to size 10.0pt on input line 182.
 ) (/Users/lyn/Desktop/Github/SLAM_NOTE/Exp.tex
@@ -1025,6 +1109,11 @@ Overfull \hbox (6.89296pt too wide) detected at line 42
 ) [2 <c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Epipolar.png>]
 Overfull \hbox (6.58795pt too wide) detected at line 39
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+(Font)              scaled to size 10.0pt on input line 153.
+) [2 <c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Epipolar.png>]
+Overfull \hbox (6.58795pt too wide) detected at line 40
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 \LMS/ntxsy/m/n/10 f\OML/ntxmi/m/it/10 R; t\LMS/ntxsy/m/n/10 g \U/ntxmia/m/it/10 = [] [] \OML/ntxmi/m/it/10 ^^Z\LMS/ntxsy/m/n/10 ¹[][] \U/ntxmia/m/it/10 ý \OML/ntxmi/m/it/10  [][]\LMS/ntxsy/m/n/10 º
  []
 
@@ -1036,6 +1125,7 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
 <<<<<<< HEAD
  17308 strings out of 492649
  319168 string characters out of 6129622
@@ -1061,10 +1151,24 @@ PDF statistics:
  62i,10n,81p,925b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txmia.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.pdf (3 pages, 331392 bytes).
+=======
+ 17733 strings out of 492616
+ 326388 string characters out of 6132768
+ 388110 words of memory out of 5000000
+ 21209 multiletter control sequences out of 15000+600000
+ 48128 words of font info for 86 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,10n,81p,925b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txmia.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.pdf (3 pages, 331452 bytes).
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
+<<<<<<< HEAD
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 

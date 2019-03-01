@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 PWD /Users/lyn/Desktop/Github/SLAM_NOTE
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
@@ -358,6 +359,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
 =======
+=======
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 PWD c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
@@ -407,6 +410,13 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/preprint/authblk.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/preprint/authblk.sty
+<<<<<<< HEAD
+=======
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
 INPUT c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
@@ -713,4 +723,7 @@ INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsya.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
+<<<<<<< HEAD
 >>>>>>> 8a149faaaed81342e8fe5e4ecdc30252aa235c7c
+=======
+>>>>>>> 982eed200ffcfbea19fdc50e239593c292f3b740
