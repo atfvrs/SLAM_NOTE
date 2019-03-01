@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1551399042 "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex" "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.pdf" "slam_note" 1551399042
-  "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux" 1551399042 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex" 1551399040 1667 1e7de8f115d27c05e2a42de0a9fd33c6 ""
+["pdflatex"] 1551399468 "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex" "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.pdf" "slam_note" 1551399469
+  "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux" 1551399469 1187 daf29ebfbdc338b84f5c0cc69b1f33ba ""
+  "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex" 1551399466 1741 fc66a2882f172865c89a30a6f31d80f0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1480098668 2880 847ca622ad468c3dafba6a3f9d89a636 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1480098668 2083 60e36f8eac802fcaf19eabe2633b406e ""
@@ -213,11 +213,11 @@
   "Epipolar.png" 1551399005 382741 391d6472a4fe8d3ffdb3f353ffbe85d8 ""
   "Intro.tex" 1551399005 1933 74fb68d6571fcd830d3224c2033fff55 ""
   "Math.tex" 1551399005 6903 6896d8374b167d2afa9f519eaa8216b5 ""
-  "slam_note.aux" 0 -1 0 ""
-  "slam_note.tex" 1551399040 1667 1e7de8f115d27c05e2a42de0a9fd33c6 ""
+  "slam_note.aux" 1551399469 1187 daf29ebfbdc338b84f5c0cc69b1f33ba ""
+  "slam_note.tex" 1551399466 1741 fc66a2882f172865c89a30a6f31d80f0 ""
   (generated)
-  "slam_note.aux"
-  "slam_note.pdf"
   "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.pdf"
-  "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.log"
   "slam_note.log"
+  "/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.log"
+  "slam_note.pdf"
+  "slam_note.aux"
