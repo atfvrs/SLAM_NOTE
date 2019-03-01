@@ -11,6 +11,7 @@
 \usepackage{geometry}
 \usepackage{amssymb}
 \usepackage{newtxtext,newtxmath}
+\usepackage{color}
 \usepackage[colorinlistoftodos]{todonotes}
 \geometry{a4paper,left=2cm,right=2cm,top=2cm,bottom=2.5cm}
 
@@ -25,13 +26,15 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-    SLAM (Simultaneous Localization And Mapping) is a rising-discussion topic today. There are several excellent open-source software, for instances, PTAM, LSD-SLAM and ORB-SLAM, etc. After installing several softwares and digging out the limitation of different systems, We choose ORB-SLAM as our research topic. We also did some experienments trying to figured out the backbone of ORB-SLAM. Our objective is to optimzed the algorithm to enhance the system performance and mapping accuracy. 
+     SLAM (Simultaneous Localization And Mapping) is a rising-discussion topic today. There are several excellent open-source software, for instances, PTAM, LSD-SLAM and ORB-SLAM, etc. After installing several softwares and digging out the limitation of different systems, We choose ORB-SLAM as our research topic. We also did some experienments trying to figured out the backbone of ORB-SLAM. Our objective is to optimzed the algorithm to enhance the system performance and mapping accuracy.
 \end{abstract}
 
 \section{Introduction}
 \input{Intro.tex}
 \section{Related Mathmatical Work}
 \input{Math.tex}
+\section{Experienment}
+\input{Exp.tex}
 \section{Objective}
 
 Our objective is to fuse localization data given by Wi-Fi anchor to enhance our system performance and reduce trajectory drift using monocular cameara. The mathmatical representation is given by Equation \label{wifi math}
