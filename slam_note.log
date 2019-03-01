@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.2.28)  1 MAR 2019 14:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.2.28)  1 MAR 2019 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -904,12 +904,12 @@ Package pdftex.def Info: Epipolar.png  used on input line 7.
 
 
 ]
-Underfull \hbox (badness 2932) in paragraph at lines 62--71
+Underfull \hbox (badness 2932) in paragraph at lines 61--70
 \T1/ntxtlf/m/n/10 Then do left mul-ti-pli-ca-tion at the same time by
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 153.
+(Font)              scaled to size 10.0pt on input line 152.
 ) (c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Exp.tex
 <Trajectory.png, id=46, 326.6604pt x 283.2984pt>
 File: Trajectory.png Graphic file (type png)
@@ -934,13 +934,13 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  17748 strings out of 492616
  326730 string characters out of 6132768
- 388126 words of memory out of 5000000
+ 387126 words of memory out of 5000000
  21219 multiletter control sequences out of 15000+600000
  48128 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,10n,81p,901b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txmia.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.pdf (3 pages, 553202 bytes).
+Output written on c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.pdf (3 pages, 553076 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
