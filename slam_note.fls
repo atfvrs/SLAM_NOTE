@@ -47,6 +47,10 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/preprint/authblk.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/preprint/authblk.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
