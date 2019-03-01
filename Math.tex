@@ -8,42 +8,11 @@ As shown in Figure \ref{epi}, $P$ is our feature point which can be seen in two 
     \caption{Epipolar Geometry and Reprojection Error}
     \label{epi}
 \end{figure*}
-
+It is mentioned that the reprojection error can be optimized by camera pose and translation matrix in the above seesion, and in this part, the Geometrical relation will be analysed by using mathematical method. the equation relation is shown as below:
 \begin{align}
-    p^T_2K^{-T}t^RK^{-1}p_1 = 0 \\
-    E = t^R \\
-    F = K^{-T}EK^{-1}
-\end{align}\\
-where $E$, $F$ are called Essential matrix and Fundamental Matrix.
-    Assuming the pixel location of two points are 
-\begin{align}
-    s_1p_1 &= KP\\
-    s_2p_2 &= K (RP + t)
-\end{align}\\
-where $k$ is the camera's internal matrix, and $R$,$t$ represent the transformation of two frame references.\\
-Taking
-\begin{align}
-     x_1 &= K^{-1}p^{-1} \\ 
-     x_2 &= K^{-1}p^{-2}
-\end{align}\\
-where $x_1$, $x_2$ are the coordinate of two points on equivalent plane where between the film and lens.\\
-Get $x_1$, $x_2$ into the above equation, we have:
-\begin{equation}
-    x_2 = Rx_1 + t \label{1_2}
-\end{equation}\\
-simplifying the equation by taking the outer proudct of t with both sides of the equation \ref{1_2}, and we get 
-\begin{align}
-    t^{\wedge}x_2 = t^{\wedge}Rx_1\\
-    x^T_2t^{\wedge}x_2 = x^T_2t^{\wedge}Rx_1
-\end{align}\\
-We can know that the left equation is equal to 0 ,and get:
-\begin{equation}
-    x^T_2t^{\wedge}RK^{-1}P_1 = 0
-\end{equation}
-and it also is equal to 
-\begin{equation}
-    p^T_2K^{-T}t^RK^{-1}p_1 = 0
-\end{equation}
+    p^T_2K^{-T}t^{\wedge}RK^{-1}p_1 = 0 
+\end{align}
+where K, R, t represent camera internal metrix, camera pose and translation.
 \subsection{Euclidean transformation}
 The robot can be seen as rigid body when it moving, which means the length and angle keep stable at any frame of reference. Such a transformation called Euclidean transformation. Euclidean transformation include two parts, rotation and translation. Firstly consider rotation. Set the vector $\pmb{\vec{a}}$, the coordinate points are 
 $
