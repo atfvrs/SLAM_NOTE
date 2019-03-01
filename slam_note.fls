@@ -1,9 +1,9 @@
-PWD /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report
+PWD /Users/lyn/Desktop/Github/SLAM_NOTE
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.tex
-OUTPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.log
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex
+OUTPUT /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.log
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
@@ -191,9 +191,9 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.aux
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.aux
-OUTPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.aux
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux
+OUTPUT /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/newtx/omlntxmi.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/newtx/omlntxmi.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxexa.fd
@@ -230,8 +230,9 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Intro.tex
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Intro.tex
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/Intro.tex
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/Intro.tex
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1.tfm
@@ -274,13 +275,13 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Math.tex
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Math.tex
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/Math.tex
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/Math.tex
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Epipolar.png
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Epipolar.png
-OUTPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.pdf
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Epipolar.png
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/Epipolar.png
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/Epipolar.png
+OUTPUT /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.pdf
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/Epipolar.png
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/public/newtx/ntxmi.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
@@ -327,7 +328,7 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/boondox/zxxrl7z.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
-INPUT /Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.aux
+INPUT /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc

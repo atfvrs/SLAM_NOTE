@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.13)  1 MAR 2019 10:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.13)  1 MAR 2019 11:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.tex"
-(/Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.tex
+**/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex
+(/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
@@ -683,57 +683,86 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 \c@@todonotes@numberoftodonotes=\count135
 )
-LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 24.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex:18: Undefined control sequence.
+\\affil ...\AB@authors {\the \@temptokena \AB@las 
+                                                  \AB@au@str \protect \\[\af...
+l.18 \affil{University of New South Wales}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex:18: Undefined control sequence.
+\\affil ... {\the \@temptokena \AB@las \AB@au@str 
+                                                  \protect \\[\affilsep ]\pr...
+l.18 \affil{University of New South Wales}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex:18: Undefined control sequence.
+\AB@note ->\AB@thenote 
+                       
+l.18 \affil{University of New South Wales}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 21.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 24.
- (/Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.aux
-
-LaTeX Warning: Label `wifi math' multiply defined.
-
-)
+(Font)              scaled to size 10.0pt on input line 21.
+ (/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux)
 \openout1 = `slam_note.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 24.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 24.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 21.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 21.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 24.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 21.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 24.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 24.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 21.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 24.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 21.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    ... okay on input line 21.
  (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count136
@@ -822,18 +851,40 @@ Package caption Info: End \AtBeginDocument code.
 \c@mv@boldtabular=\count143
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 25.
+(Font)              scaled to size 17.28pt on input line 22.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 25.
+(Font)              scaled to size 12.0pt on input line 22.
+
+
+/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.tex:22: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \maketitle
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 26.
+(Font)              scaled to size 14.4pt on input line 23.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 26.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 26.
- (/Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Intro.tex
+(Font)              scaled to size 14.4pt on input line 23.
+(/Users/lyn/Desktop/Github/SLAM_NOTE/Intro.tex
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+
+
+LaTeX Warning: Reference `LS' on page 1 undefined on input line 1.
+
 LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 2.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+(/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -861,17 +912,24 @@ File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 2.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-)) (/Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Math.tex
+)) (/Users/lyn/Desktop/Github/SLAM_NOTE/Math.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12> not available
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 1.
+
+
+LaTeX Warning: Reference `epi' on page 1 undefined on input line 2.
+
 <Epipolar.png, id=4, 285.65218pt x 192.91043pt>
 File: Epipolar.png Graphic file (type png)
 <use Epipolar.png>
 Package pdftex.def Info: Epipolar.png  used on input line 7.
 (pdftex.def)             Requested size: 328.49744pt x 221.84525pt.
- [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+LaTeX Warning: Reference `1_2' on page 1 undefined on input line 34.
+
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
@@ -879,31 +937,34 @@ Underfull \hbox (badness 1838) in paragraph at lines 91--100
 \T1/ntxtlf/m/n/10 Then do left mul-ti-pli-ca-tion at the same time by
  []
 
-[2 </Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/Epipolar.png>]
+[2 </Users/lyn/Desktop/Github/SLAM_NOTE/Epipolar.png>]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.0pt on input line 182.
 )
-Overfull \hbox (14.00615pt too wide) detected at line 39
+Overfull \hbox (14.00615pt too wide) detected at line 36
 \LMS/ntxsy/m/n/10 f\OML/ntxmi/m/it/10 R; t\LMS/ntxsy/m/n/10 g \U/ntxmia/m/it/10 = [] [] \OML/ntxmi/m/it/10 ^^Z\LMS/ntxsy/m/n/10 ¹[][] \U/ntxmia/m/it/10 ý \OML/ntxmi/m/it/10  [][]\LMS/ntxsy/m/n/10 º
  []
 
 [3
 
-] (/Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.aux)
+] (/Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
  17282 strings out of 492649
- 318716 string characters out of 6129622
- 371802 words of memory out of 5000000
+ 318529 string characters out of 6129622
+ 372607 words of memory out of 5000000
  20749 multiletter control sequences out of 15000+600000
- 48132 words of font info for 86 fonts, out of 8000000 for 9000
+ 50932 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,77p,927b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,77p,909b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txmia.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/lyn/Google Drive/CSIRO/SLAM_note/SLAM_Report/slam_note.pdf" (3 pages, 331045 bytes).
+Output written on /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.pdf (3 pages, 331093 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
