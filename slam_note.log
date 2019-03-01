@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.13)  1 MAR 2019 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.13)  1 MAR 2019 12:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -792,14 +792,14 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(64.01869pt, 469.47049pt, 64.01869pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
 * v-part:(T,H,B)=(56.9055pt, 717.00946pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=469.47049pt
+* \textwidth=483.69687pt
 * \textheight=717.00946pt
-* \oddsidemargin=-8.2513pt
-* \evensidemargin=-8.2513pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -875,7 +875,7 @@ Package pdftex.def Info: Epipolar.png  used on input line 7.
 
 
 ]
-Underfull \hbox (badness 1838) in paragraph at lines 91--100
+Underfull \hbox (badness 2932) in paragraph at lines 91--100
 \T1/ntxtlf/m/n/10 Then do left mul-ti-pli-ca-tion at the same time by
  []
 
@@ -883,7 +883,7 @@ Underfull \hbox (badness 1838) in paragraph at lines 91--100
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.0pt on input line 182.
 )
-Overfull \hbox (14.00615pt too wide) detected at line 39
+Overfull \hbox (6.89296pt too wide) detected at line 39
 \LMS/ntxsy/m/n/10 f\OML/ntxmi/m/it/10 R; t\LMS/ntxsy/m/n/10 g \U/ntxmia/m/it/10 = [] [] \OML/ntxmi/m/it/10 ^^Z\LMS/ntxsy/m/n/10 ¹[][] \U/ntxmia/m/it/10 ý \OML/ntxmi/m/it/10  [][]\LMS/ntxsy/m/n/10 º
  []
 
@@ -897,13 +897,13 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  17282 strings out of 492649
  318506 string characters out of 6129622
- 371802 words of memory out of 5000000
+ 371800 words of memory out of 5000000
  20749 multiletter control sequences out of 15000+600000
  48132 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,10n,77p,909b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txmia.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.pdf (3 pages, 331045 bytes).
+Output written on /Users/lyn/Desktop/Github/SLAM_NOTE/slam_note.pdf (3 pages, 330973 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
