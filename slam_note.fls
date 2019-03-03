@@ -244,6 +244,8 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Intro.tex
 INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Intro.tex
 INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
@@ -337,6 +339,8 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/rtxmio.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/boondox/zxxrl7z.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Exp.tex
 INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Exp.tex
@@ -346,8 +350,6 @@ INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Trajectory.png
 INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Trajectory_1.png
 INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Trajectory_1.png
 INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/Trajectory_1.png
-INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
 INPUT c:/Users/cchi9/Documents/GitHub/SLAM_NOTE/SLAM_NOTE/slam_note.aux
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc
