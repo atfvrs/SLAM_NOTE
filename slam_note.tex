@@ -7,13 +7,14 @@
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{authblk}
+\usepackage{subfigure}
 \usepackage{color}
 \usepackage{geometry}
 \usepackage{amssymb}
 \usepackage{newtxtext,newtxmath}
 \usepackage{color}
 \usepackage[colorinlistoftodos]{todonotes}
-\geometry{a4paper,left=2cm,right=2cm,top=2cm,bottom=2.5cm}
+\geometry{a4paper,left=3.5cm,right=3.5cm,top=2cm,bottom=2.5cm}
 
 \title{Accurate Tracking with Fusion of Video and Radio Signals}
 \author{Yuning Liu}
@@ -43,5 +44,4 @@ Our objective is to fuse localization data given by Wi-Fi anchor to enhance our 
     \{R, t\} = \operatorname*{argmin}_{R, t} \sum_{i\in \chi} \rho(\left\|x^i_{(\cdot)}-\pi_{m}(RX^i+t)\right\|^2_\Sigma+\alpha\left\|\vec{x}-\vec{x}_{wifi}\right\|^2) \label{wifi math}
 \end{equation}
 
-\section{Others}
 \end{document}
